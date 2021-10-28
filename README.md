@@ -19,12 +19,14 @@ Projeto feito em parceria com colegas da Tribo 13 - B
 
 Rafael Bamberg - raafaelbamberg@gmail.com
 
-
 <!-- Github dos participantes -->
 ## Github dos participantes
 * [RafaelBamberg](https://github.com/RafaelBamberg)
 * [mayukuni](https://github.com/mayukuni)
 * [jessicanaiarag](https://github.com/jessicanaiarag)
 * [thiagoteixas](https://github.com/thiagoteixas)
+
+## Link do Pull Request
+* [Front End Online Store](https://github.com/tryber/sd-013-b-project-frontend-online-store/pull/66)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
